@@ -1,0 +1,29 @@
+{
+  "name": "view-rule-generator",
+  "version": "1.0.0",
+  "description": "CLI utility that generates MySQL views",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/younabobo/view-generator.git"
+  },
+  "keywords": [
+    "view",
+    "mysql",
+    "nodejs",
+    "cli",
+    "tool",
+    "views",
+    "auto",
+    "automatic"
+  ],
+  "author": "Younes Henni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/younabobo/view-generator/issues"
+  },
+  "homepage": "https://github.com/younabobo/view-generator#readme"
+}
